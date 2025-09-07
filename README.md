@@ -1,4 +1,4 @@
-# Germline Variant Calling Pipeline
+# Germline Variant Calling Pipeline using WGS
 
 This repository contains a complete germline variant calling pipeline using GATK Best Practices.
 
