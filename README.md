@@ -9,7 +9,8 @@ This repository contains a complete germline variant calling pipeline using GATK
 
 ## Usage
 1. Follow the guide to install Mamba and create an environment.
-2. Run `requirements.txt` to install tools and references.
-3. Execute `bash run_pipeline.sh` to start the pipeline.
+2. Run commads in requirements.txt to install tools and references directly from mamba and google cloud bucket.
+3. give execution permission using chmod +x run_pipeline.sh
+4. Execute the pipeline using bash run_pipeline.sh
 
 
